@@ -160,7 +160,7 @@ var employees =
     { "id": 75, "Name": "林佳祈", "EName": "林○祈", "team": "第十一組", "school": "屏東科技大學", "department": "食品", "workshopcourse": " 因您僅參與第二天，故無Workshop課程 " },
     { "id": 76, "Name": "吳沛蓉", "EName": "吳○蓉", "team": "第十一組", "school": "屏東科技大學", "department": "食品(進修部)", "workshopcourse": " 因您僅參與第二天，故無Workshop課程 " },
     { "id": 77, "Name": "林育德", "EName": "林○德", "team": "第十一組", "school": "屏東大學", "department": "教育", "workshopcourse": "手機APP質感修圖攻略" },
-    { "id": 78, "Name": "吳羿潔", "EName": "吳○潔", "team": "第十一組", "school": "屏東大學", "department": "教育", "workshopcourse": "手機APP質感修圖攻略" },
+    { "id": 78, "Name": "吳羿潔", "EName": "吳○潔", "team": "第十一組", "school": "屏東大學", "department": "教育", "workshopcourse": "因您僅參與第二天，故無Workshop課程" },
     { "id": 79, "Name": "喻讌棻", "EName": "喻○棻", "team": "第十二組", "school": "台南應用科技大學", "department": "餐飲", "workshopcourse": "我要的IG濾鏡特效自己做！Spark AR基礎教學" },
     { "id": 80, "Name": "劉昱均", "EName": "劉○均", "team": "第十二組", "school": "正修科技大學", "department": "機械", "workshopcourse": "如何打造品牌思維？" },
     { "id": 81, "Name": "鄭文瑄", "EName": "鄭○瑄", "team": "第十二組", "school": "正修科技大學", "department": "機械", "workshopcourse": "我要的IG濾鏡特效自己做！Spark AR基礎教學" },
@@ -173,7 +173,9 @@ var employees =
     { "id": 88, "Name": "陳映綺", "EName": "陳○綺", "team": "第十三組", "school": "屏東科技大學", "department": "獸醫", "workshopcourse": "手機APP質感修圖攻略" },
     { "id": 89, "Name": "葉紜而", "EName": "葉○而", "team": "第十三組", "school": "美和科技大學", "department": "社工", "workshopcourse": "我要的IG濾鏡特效自己做！Spark AR基礎教學" },
     { "id": 90, "Name": "黃美珊", "EName": "黃○珊", "team": "第十三組", "school": "美和科技大學", "department": "食品", "workshopcourse": "如何打造品牌思維？" },
-    { "id": 91, "Name": "李詩媛", "EName": "李○媛", "team": "第十三組", "school": "屏東大學", "department": "社發", "workshopcourse": "我要的IG濾鏡特效自己做！Spark AR基礎教學" }];
+    { "id": 91, "Name": "李詩媛", "EName": "李○媛", "team": "第十三組", "school": "屏東大學", "department": "社發", "workshopcourse": "我要的IG濾鏡特效自己做！Spark AR基礎教學" },
+    { "id": 92, "Name": "邱美玟", "EName": "邱○玟", "team": "第十三組", "school": "屏東科技大學", "department": "食品", "workshopcourse": "因您僅參與第二天，故無Workshop課程" }
+    ];
 
 
 //進入畫面，預載表格
